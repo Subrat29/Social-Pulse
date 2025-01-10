@@ -1,7 +1,3 @@
-Here’s a polished and professional README file for your **Social Pulse** project:
-
----
-
 # 🌟 Social Pulse - A Data Analytics Tool  
 
 ![Version](https://img.shields.io/badge/version-0.0.0-blue.svg?cacheSeconds=2592000)  
@@ -94,5 +90,3 @@ Give a ⭐️ if you found this project useful and inspiring!
 ---
 
 _Developed with ❤️ by Team Endgame_  
-
----
