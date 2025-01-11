@@ -182,7 +182,7 @@ Executes a Langflow workflow with the provided input.
 ## 👥 Contributors
 
 - **Subrat**: [GitHub](https://github.com/Subrat29)  
-- **Gavish**: [GitHub](https://github.com/Gavnishkumar)  
+- **Gavnish**: [GitHub](https://github.com/Gavnishkumar)  
 - **Abhishek**: [GitHub](https://github.com/Abhi-gits)  
 
 ---
